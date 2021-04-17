@@ -22,7 +22,7 @@ function Navbar () {
           <li><a href="#">Home</a></li>
           <li><a href="#">About Pizza</a></li>
           <li><a href="#">Pizza Types</a></li>
-        
+         nt
         </ul>
       </div>
     </div>
